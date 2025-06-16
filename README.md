@@ -1,1 +1,6 @@
-[video review](src/assets/video.mp4)
+![image](https://github.com/user-attachments/assets/c4809021-96c5-4957-9e86-9c639744666a)
+![image](https://github.com/user-attachments/assets/ac014029-059f-4daf-b309-5829215f6ef5)
+![image](https://github.com/user-attachments/assets/3d6cfa2c-1e94-4d8d-ba92-88621bb3dc47)
+![image](https://github.com/user-attachments/assets/e0046a0d-a2ae-47d6-b202-7e89bef28bfc)
+![image](https://github.com/user-attachments/assets/e4f74a47-a09e-4d7f-aa58-10b652d333f8)
+![image](https://github.com/user-attachments/assets/8a3009d1-522f-47ee-8d17-6e2b054cea7a)
